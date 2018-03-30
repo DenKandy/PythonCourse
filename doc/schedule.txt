@@ -1,0 +1,10 @@
+Python plan of learning
+april:
+24 - OOP (object oriented programming)
+31 - AI/ML (artificial intelligence / machine learning)
+may:
+14 - WD (web development)
+june:
+5 - GD (game development)
+19 - Presentation projects
+26 - finale control test 
